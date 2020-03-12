@@ -92,7 +92,6 @@ end
 
 
 describe "power" do
-
   it "raises one number to the power of another number" do
     expect(power(2,3)).to eq(8)
   end
