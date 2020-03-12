@@ -34,3 +34,7 @@ def multiply(array)
     product
 
 end
+
+def power(number, power)
+    number ** power
+end
